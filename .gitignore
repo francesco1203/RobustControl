@@ -1,0 +1,8 @@
+# Ignora la cartella "Immagini"
+Immagini/
+
+# Ignora la cartella slprj
+script_matlab/slprj
+
+# Ignora tutti i file con estensione .slxc
+script_matlab/*.slxc
